@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Pimpale</h1>
 <h4 align="center">A Passionate Programmer From India</h4>
-
-<p align="right"> <img src="github.jpeg" alt="coding" width="400"/> </p>
+C:\Users\WEL\Downloads" alt="coding" width="400"/> </p>
 
 - 🌱 I’m currently learning TY BBA(CA)
 
